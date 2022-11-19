@@ -52,6 +52,16 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.Countr
                     Toast.makeText(context, "You selected Spain Flag", Toast.LENGTH_SHORT).show();
                 } else if (position == 4) {
                     Toast.makeText(context, "You selected South Korea Flag", Toast.LENGTH_SHORT).show();
+                } else if (position == 5) {
+                    Toast.makeText(context, "You selected Sweden Flag", Toast.LENGTH_SHORT).show();
+                } else if (position == 6) {
+                    Toast.makeText(context, "You selected New Zealand Flag", Toast.LENGTH_SHORT).show();
+                } else if (position == 7) {
+                    Toast.makeText(context, "You selected Hawaii Flag", Toast.LENGTH_SHORT).show();
+                } else if (position == 8) {
+                    Toast.makeText(context, "You selected France Flag", Toast.LENGTH_SHORT).show();
+                } else if ( position == 9) {
+                    Toast.makeText(context, "You selected Italy Flag", Toast.LENGTH_SHORT).show();
                 }
             }
         });
