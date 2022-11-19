@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         imageList.add(R.drawable.spain1);
         imageList.add(R.drawable.sokor1);
         imageList.add(R.drawable.sweden1);
-        imageList.add(R.drawable.newzealand1);
+        imageList.add(R.drawable.nz1);
         imageList.add(R.drawable.hawaii1);
         imageList.add(R.drawable.france1);
         imageList.add(R.drawable.italy1);
